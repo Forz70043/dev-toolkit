@@ -52,3 +52,18 @@ dev project-info
 ```
 
 💡 npm link create a global symlink → it's possible to test as is installed by npm i -g.
+
+
+### 🧰 Roadmap
+* ✅ Git branch cleaner
+* ✅ Environment variable validator
+* ✅ Commit linter
+* ✅ Project info command
+* ❌ dev help command with autocomplete
+* ❌ GitHub API integration for remote repo stats
+
+
+### 🧑‍💻 Author
+
+Alfonso Pisicchio  
+🌐 https://pisicchio.dev
