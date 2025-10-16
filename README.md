@@ -1,5 +1,11 @@
 # 🧰 Dev Toolkit CLI
 
+[![npm version](https://img.shields.io/npm/v/@forz70043/dev-toolkit.svg?style=flat-square)](https://www.npmjs.com/package/@forz70043/dev-toolkit)
+[![License](https://img.shields.io/npm/l/@forz70043/dev-toolkit.svg?style=flat-square)](LICENSE)
+
+A developer CLI for Git, env, and project automation.
+
+
 A multi-purpose developer CLI for automating common tasks like cleaning branches, checking .env consistency, and linting commits.
 
 ### 🏁 Installation
