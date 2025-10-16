@@ -5,7 +5,7 @@ export async function lintCommit() {
   const git = simpleGit();
   const log = await git.log({ n: 10 });
 
-  const pattern = /^(feat|fix|chore|docs|style|refactor|test|perf):/;
+  const pattern = /^(feat|bugfix|fix|core|doc|docs|style|refactor|test|perf):/;
   let invalidCount = 0;
 
   for (const c of log.all) {

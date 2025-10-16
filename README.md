@@ -8,13 +8,14 @@
 > A powerful CLI toolkit that automates common developer tasks — clean Git branches, check `.env` files, lint commits, and show project info.  
 > Developed with ❤️ by [Alfonso Pisicchio](https://pisicchio.dev).
 
+
+![Dev Toolkit demo](./assets/dev-kit.gif)
+
+
 ### 🏁 Installation
 
 ```bash
-git clone https://github.com/Forz70043/dev-toolkit.git
-cd dev-toolkit
-npm install
-npm link
+npm install -g @forz/dev-toolkit
 ```
 
 ### 💡 Usage
@@ -27,7 +28,7 @@ dev project-info
 
 ---
 
-### ⚡ How to run commands
+### ⚡ How to run commands from repository
 
 1. Open folder
    ```bash
