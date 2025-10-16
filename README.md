@@ -11,7 +11,7 @@
 ### 🏁 Installation
 
 ```bash
-git clone https://github.com/yourusername/dev-toolkit.git
+git clone https://github.com/Forz70043/dev-toolkit.git
 cd dev-toolkit
 npm install
 npm link
