@@ -1,5 +1,5 @@
 {
-  "name": "dev-toolkit",
+  "name": "@forz/dev-toolkit",
   "version": "1.0.0",
   "description": "🧰 A developer CLI for Git, env, and project automation by Alfonso Pisicchio",
   "type": "module",
