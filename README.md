@@ -1,6 +1,6 @@
 # 🧰 Dev Toolkit CLI
 
-[![npm version](https://img.shields.io/npm/v/@forz70043/dev-toolkit.svg?style=flat-square&color=00bfa5)](https://www.npmjs.com/package/@forz/dev-toolkit)
+[![npm version](https://img.shields.io/npm/v/@forz/dev-toolkit.svg?style=flat-square&color=00bfa5)](https://www.npmjs.com/package/@forz/dev-toolkit)
 [![npm downloads](https://img.shields.io/npm/dt/@forz70043/dev-toolkit.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/@forz70043/dev-toolkit)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/source-GitHub-black?logo=github&style=flat-square)](https://github.com/Forz70043/dev-toolkit)
