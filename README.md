@@ -1,11 +1,11 @@
 # 🧰 Dev Toolkit CLI
 
-[![npm version](https://img.shields.io/npm/v/@forz70043/dev-toolkit.svg?style=flat-square&color=00bfa5)](https://www.npmjs.com/package/@forz70043/dev-toolkit)
+[![npm version](https://img.shields.io/npm/v/@forz70043/dev-toolkit.svg?style=flat-square&color=00bfa5)](https://www.npmjs.com/package/@forz/dev-toolkit)
 [![npm downloads](https://img.shields.io/npm/dt/@forz70043/dev-toolkit.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/@forz70043/dev-toolkit)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/source-GitHub-black?logo=github&style=flat-square)](https://github.com/Forz70043/dev-toolkit)
 
-> A powerful CLI toolkit that automates common developer tasks — clean Git branches, check `.env` files, lint commits, and show project info.  
+> A powerful CLI dev toolkit that automates common developer tasks — clean Git branches, check `.env` files, lint commits, and show project info.  
 > Developed with ❤️ by [Alfonso Pisicchio](https://pisicchio.dev).
 
 
@@ -60,8 +60,8 @@ dev project-info
 * ✅ Environment variable validator
 * ✅ Commit linter
 * ✅ Project info command
+* ✅ GitHub API integration for remote repo stats
 * ❌ dev help command with autocomplete
-* ❌ GitHub API integration for remote repo stats
 
 
 ### 🧑‍💻 Author
